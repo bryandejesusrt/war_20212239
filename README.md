@@ -1,5 +1,5 @@
 
-# Diario de Guerra 📓🔥  
+# Diario de Guerra 🪖📓  
 ¡Bienvenido al Diario de Guerra, la aplicación para soldados valientes! 🎖️ Registra tus vivencias diarias con facilidad y seguridad.
 
 ## Características 🚀
